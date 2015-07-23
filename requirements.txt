@@ -1,0 +1,13 @@
+flask
+flask-script
+flask-cors
+flask-restful
+flask-celery
+flask-mail
+flask-login
+sqlalchemy
+pytest
+# for loading data from json/yaml file
+flask-fixtures
+# for generate random data
+mixer

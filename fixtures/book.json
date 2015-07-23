@@ -1,0 +1,16 @@
+[
+    {
+        "table": "book",
+        "records": [{
+            "id": 1,
+            "name": "book1",
+            "cate_id": 1,
+            "description": "hello elvis"
+        }, {
+            "id": 2,
+            "name": "book2",
+            "cate_id": 2,
+            "description": "hello book2"
+        }]
+    }
+]

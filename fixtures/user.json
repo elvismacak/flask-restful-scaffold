@@ -1,0 +1,18 @@
+[
+    {
+        "table": "user",
+        "records": [{
+            "id": 1,
+            "name": "elvis",
+            "mail": "elvis@lnmpy.com",
+            "description": "hello elvis",
+            "token": "token-1234"
+        }, {
+            "id": 2,
+            "name": "elvis2",
+            "mail": "elvis2@lnmpy.com",
+            "description": "hello elvis2",
+            "token": "token-abcd"
+        }]
+    }
+]

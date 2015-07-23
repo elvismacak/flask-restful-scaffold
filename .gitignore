@@ -1,0 +1,11 @@
+*.pyc
+*.slsc
+*.swp
+.nfs*
+build
+dist
+ironman.egg-info
+.DS_Store
+.Trash-1000
+.Trash
+dev.db

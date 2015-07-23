@@ -1,0 +1,12 @@
+[
+    {
+        "table": "category",
+        "records": [{
+            "id": 1,
+            "name": "Story"
+        }, {
+            "id": 2,
+            "name": "Education"
+        }]
+    }
+]
