@@ -53,7 +53,7 @@ class DevConfig(Config):
     SQLALCHEMY_DATABASE_URI = 'sqlite:///dev.db'
 
     LOGGER_LEVEL = 'debug'
-    LOGGER_PATH = '/tmp/restful-scaffold'
+    LOGGER_PATH = '/tmp'
 
     MAIL_DEFAULT_SENDER = 'test-dev@example.com'
 
@@ -71,7 +71,7 @@ class TestConfig(Config):
     SQLALCHEMY_DATABASE_URI = 'sqlite:///test.db'
 
     LOGGER_LEVEL = 'debug'
-    LOGGER_PATH = '/tmp/restful-scaffold.log'
+    LOGGER_PATH = '/tmp'
 
     MAIL_DEFAULT_SENDER = 'test-test@example.com'
 
